@@ -2,11 +2,13 @@
 
 Windows 用の Flying Toasters スクリーンセーバーです。  
 インストーラー付きで簡単に導入できます。
+---
+<img width="928" height="520" alt="スクリーンショット 2026-04-26 143954" src="https://github.com/user-attachments/assets/a71f6cb5-2a48-4f3c-a4e6-82a3b076cd04" />
 
 ---
 
 ## 🎬 動作デモ（YouTube）
-https://youtu.be/SlO4xZ3foug
+👉 https://youtu.be/SlO4xZ3foug
 
 ---
 
