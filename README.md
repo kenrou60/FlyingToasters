@@ -6,7 +6,7 @@ Windows 用の Flying Toasters スクリーンセーバーです。
 ---
 
 ## 🎬 動作デモ（YouTube）
-https://www.youtube.com/watch?v=【ここに動画ID】
+https://youtu.be/SlO4xZ3foug
 
 ---
 
